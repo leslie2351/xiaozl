@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec5e8a1b-9935-464b-b3de-60cd7eda180f" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="merchant-admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="tab1.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab1/tab1.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="42" column="41" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="42" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation-management.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/trading/evaluation-management/evaluation-management.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="11" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistics-management.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/trading/logistics-management/logistics-management.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-service.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="67" column="42" lean-forward="false" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="added-service.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/platform-services/added-service/added-service.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="133" column="73" lean-forward="false" selection-start-line="133" selection-start-column="73" selection-end-line="133" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Step#0;n#Steps#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Step#2;n#Steps#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#0;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#2;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#0;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#2;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#0;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#2;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#0;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#2;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#2;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#Row#2;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Col#1;n#Row#3;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Select#0;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="added-service.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/platform-services/added-service/added-service.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-253">
+              <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+              <folding>
+                <marker date="1521517717768" expanded="true" signature="1469:1486" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settlement-management.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/trading/settlement-management/settlement-management.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3082">
+              <caret line="134" column="2" lean-forward="false" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all-orders.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/all-orders.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="76" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="4" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3542">
+              <caret line="154" column="2" lean-forward="false" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="2" />
+              <folding>
+                <marker date="1521441858579" expanded="true" signature="6195:6554" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-service.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="50" column="16" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="50" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+      <find>goodsList</find>
+      <find>changePage</find>
+      <find>de</find>
+      <find>ci</find>
+      <find>cityList</find>
+      <find>isShow</find>
+      <find>model1</find>
+      <find>model2</find>
+      <find>title</find>
+      <find>buy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/all-orders.less" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/settlement-details/settlement-details.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/all-orders.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab2/tab2.less" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/commodity-Set/commodity-Set.less" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set.less" />
+        <option value="$PROJECT_DIR$/src/views/trading/rights-orders/rights-orders.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/allorders-details/payment-details.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-S儿童.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set1.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/complete-Set.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/commodity-add/commodity-add.vue" />
+        <option value="$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/complete-Set1.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/rights-orders/tab1/tab1.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/rights-orders/tab2/tab2.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/rights-orders/tab3/tab3.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/rights-orders/tab4/tab4.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/settlement-management/settlement-management.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/logistics-management/tab1/tab1.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/evaluation-management/evaluation-management.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab2/tab2.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab3/tab3.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab4/tab4.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab5/tab5.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab6/tab6.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab7/tab7.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab8/tab8.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/logistics-management/logistics-management.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/logistics-management/tab2/tab2.less" />
+        <option value="$PROJECT_DIR$/src/views/trading/logistics-management/tab2/tab2.vue" />
+        <option value="$PROJECT_DIR$/src/views/trading/all-orders/tab1/tab1.vue" />
+        <option value="$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.less" />
+        <option value="$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.vue" />
+        <option value="$PROJECT_DIR$/src/router/router.js" />
+        <option value="$PROJECT_DIR$/src/views/platform-services/added-service/added-service.less" />
+        <option value="$PROJECT_DIR$/src/views/platform-services/added-service/added-service.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="525" />
+    <option name="y" value="34" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-services" type="462c0819:PsiDirectoryNode" />
+              <item name="added-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchant-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchant-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-services" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="G:\merchant-admin\node_modules\eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\merchant-admin\src\views\trading\all-orders" />
+      <recent name="G:\merchant-admin\src\views\trading" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5e8a1b-9935-464b-b3de-60cd7eda180f" name="默认的" comment="" />
+      <created>1520215502864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520215502864</updated>
+      <workItem from="1520215508383" duration="4705000" />
+      <workItem from="1520306097189" duration="3979000" />
+      <workItem from="1520385136390" duration="22731000" />
+      <workItem from="1520469719432" duration="23023000" />
+      <workItem from="1520501831741" duration="1390000" />
+      <workItem from="1520556772469" duration="9353000" />
+      <workItem from="1520573778448" duration="15344000" />
+      <workItem from="1520815728671" duration="23252000" />
+      <workItem from="1520901496900" duration="26595000" />
+      <workItem from="1520988521853" duration="22293000" />
+      <workItem from="1521074363875" duration="26138000" />
+      <workItem from="1521421560117" duration="24036000" />
+      <workItem from="1521506753278" duration="12607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490486" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16490486" sideWeight="0.50396377" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04869762" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16490486" sideWeight="0.50396377" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16490486" sideWeight="0.50396377" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04869762" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490486" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16490486" sideWeight="0.50396377" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="130" column="19" lean-forward="false" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
+          <folding>
+            <marker date="1521441858579" expanded="true" signature="6195:6554" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/component/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#Input#0;n#Row#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="61" column="46" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="61" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/all-orders.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/commodity-list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2967">
+          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+          <folding>
+            <marker date="1521441858579" expanded="true" signature="6195:6554" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/component/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#Input#0;n#Row#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/component/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#Input#0;n#Row#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/mutative-router.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab2/tab2.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/commodity-Set/commodity-Set.less" />
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/allorders-details/payment-details.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/settlement-details/settlement-details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/allorders-details/payment-details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="78" column="37" lean-forward="false" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/complete-Set.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="117" lean-forward="false" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/rights-Set1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="136" lean-forward="true" selection-start-line="9" selection-start-column="119" selection-end-line="9" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/commodity-add/commodity-add.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/component/tab2/tab2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="210" column="12" lean-forward="true" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/commodity/commodity-list/commodity-list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/login.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/advanced-router/component/rights-Set/complete-Set1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2070">
+          <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/rights-orders/tab2/tab2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="73" column="50" lean-forward="false" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/rights-orders/tab4/tab4.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="77" column="50" lean-forward="false" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/rights-orders/tab3/tab3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="77" column="50" lean-forward="false" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/rights-orders/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="73" column="50" lean-forward="false" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab8/tab8.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="112" column="65" lean-forward="true" selection-start-line="112" selection-start-column="65" selection-end-line="112" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab7/tab7.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="130" column="28" lean-forward="true" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab6/tab6.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="49" column="118" lean-forward="false" selection-start-line="49" selection-start-column="118" selection-end-line="49" selection-end-column="118" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab5/tab5.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="49" column="118" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="118" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab4/tab4.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="49" column="118" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="118" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab3/tab3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="49" column="118" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="118" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab2/tab2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="91" column="122" lean-forward="true" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="122" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#Row#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <marker date="1521020368376" expanded="false" signature="5778:5789" ph="..." />
+            <marker date="1521020368376" expanded="false" signature="6084:6113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/rights-orders/rights-orders.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/logistics-management/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/all-orders.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="53" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/logistics-management/tab2/tab2.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="64" column="15" lean-forward="false" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1900">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/logistics-management/tab2/tab2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="228" column="13" lean-forward="false" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/tab1/tab1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="41" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="42" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/all-orders/all-orders.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="76" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="4" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="154" column="2" lean-forward="false" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="2" />
+          <folding>
+            <marker date="1521441858579" expanded="true" signature="6195:6554" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/evaluation-management/evaluation-management.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/logistics-management/logistics-management.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/trading/settlement-management/settlement-management.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3082">
+          <caret line="134" column="2" lean-forward="false" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="16" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="50" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/platform-services/basic-service/basic-service.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="67" column="42" lean-forward="false" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/platform-services/added-service/added-service.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <folding>
+            <marker date="1521517717768" expanded="true" signature="1469:1486" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/platform-services/added-service/added-service.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="133" column="73" lean-forward="false" selection-start-line="133" selection-start-column="73" selection-end-line="133" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Step#0;n#Steps#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Step#2;n#Steps#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#0;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#2;n#Row#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#0;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#2;n#Row#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#0;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#2;n#Row#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#0;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#2;n#Row#1;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#2;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#Row#2;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Col#1;n#Row#3;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#Modal#1;n#Row#1;n#div#0;n#TabPane#0;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Select#0;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#0;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#1;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#2;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Button#0;n#div#1;n#div#3;n#div#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#0;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#Checkbox#0;n#div#0;n#Card#0;n#TabPane#1;n#Tabs#0;n#Modal#0;n#Row#1;n#div#0;n#TabPane#1;n#Tabs#0;n#div#0;n#Card#0;n#Row#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
